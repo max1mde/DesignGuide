@@ -14,7 +14,16 @@
 
 <details>
 <summary>Repository Readme</summary>
-<p>Nothing here yet. You can change this by opening a pull request and contributing to this project</p>
+<h3>Structure</h3>
+
+<pre>• Badges  (optional)
+• Title
+• Description
+• Banner/Showcase of the project  (optional)
+• Table of Contents (optional but good for big readme's)
+• Installation
+• Usage
+• How to Contribute, Licence, Credits etc  (optional)</pre>
 </details>
 
 <details>
