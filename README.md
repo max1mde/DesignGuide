@@ -1,7 +1,7 @@
 <div align="center">
   <h1>The Design Guide</h1>
   <p>A simple design guide for everything related to Git and Github</p>
-  <img src="https://github.com/MaximFiedler/DesignGuide/assets/114857048/17e65f3b-ac8d-4c2e-bc35-86617f5d2db8">
+  <img src="https://github.com/MaximFiedler/DesignGuide/assets/114857048/1c109e37-3501-4581-8273-2595593b3219">
   <div>
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/MaximFiedler/DesignGuide?style=social">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/MaximFiedler/DesignGuide?style=social">
