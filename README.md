@@ -80,29 +80,30 @@ _This text is italicized_
 
 - [x] A todo which is done
 - [ ] An issue https://github.com/MaximFiedler/HologramAPI/issues/1</pre>
+
+<h3>Highlight a "Note", "Important" and "Warning" blockquotes</h3>
+
+```
+> **Note**
+> This is a note
+
+> **Important**
+> This is important
+
+> **Warning**
+> This is a warning
+```
+
+> **Note**
+> This is a note
+
+> **Important**
+> This is important
+
+> **Warning**
+> This is a warning
+
 <h3>Emojies</h3>
-
-Highlight a "Note", "Important" and "Warning" blockquotes
-
-```
-> **Note**
-> This is a note
-
-> **Important**
-> This is important
-
-> **Warning**
-> This is a warning
-```
-
-> **Note**
-> This is a note
-
-> **Important**
-> This is important
-
-> **Warning**
-> This is a warning
 
 | icon | shortcode | icon | shortcode |
 | :-: | - | :-: | - |
