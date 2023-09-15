@@ -82,6 +82,28 @@ _This text is italicized_
 - [ ] An issue https://github.com/MaximFiedler/HologramAPI/issues/1</pre>
 <h3>Emojies</h3>
 
+Highlight a "Note", "Important" and "Warning" blockquotes
+
+```
+> **Note**
+> This is a note
+
+> **Important**
+> This is important
+
+> **Warning**
+> This is a warning
+```
+
+> **Note**
+> This is a note
+
+> **Important**
+> This is important
+
+> **Warning**
+> This is a warning
+
 | icon | shortcode | icon | shortcode |
 | :-: | - | :-: | - |
 | 😄 | `:grinning:` | 😃 | `:smiley:` |
