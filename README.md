@@ -48,8 +48,10 @@ _This text is italicized_
 <blockquote>Text that is a quote</blockquote>
 </pre>  
 <h3>Colors</h3>
+  
+> **Note**  
+> Color visualization is supported only in Issues, Pull Requests and Discussions.
 <pre>
-<blockquote><b>Note</b><br>Color visualization is supported only in Issues, Pull Requests and Discussions.</blockquote>  
 `#0969DA`
 `rgb(9, 105, 218)`
 `hsl(212, 92%, 45%)`<br> 
