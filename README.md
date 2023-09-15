@@ -81,7 +81,7 @@ _This text is italicized_
 - [x] A todo which is done
 - [ ] An issue https://github.com/MaximFiedler/HologramAPI/issues/1</pre>
 
-<h3>Highlight a "Note", "Important" and "Warning" blockquotes</h3>
+<h3>Highlight "Note", "Important" and "Warning" blockquotes</h3>
 
 ```
 > **Note**
