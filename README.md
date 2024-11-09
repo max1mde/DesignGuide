@@ -137,6 +137,49 @@ Badges display important details about a project, such as version, license, down
 <pre><b>You can also make them clickable by enclosing the &lt;img&gt; element within an &lt;a&gt; element, like this:</b><br>
 &lt;a href="https://github.com/max1mde/DesignGuide/blob/main/LICENSE"><br>  &lt;img alt="GitHub license" src="https://img.shields.io/github/license/max1mde/DesignGuide"&gt;<br>&lt;/a&gt;<br><br><a href="https://github.com/max1mde/DesignGuide/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/max1mde/DesignGuide"></a></pre>
 
+<h3>HTML</h3>
+You already saw that you can use HTML tags, like the &lt;a&gt; or &lt;img&gt; tag for the badges.<br>
+But there are more tags you can use.<br>
+You will probably find a tag for every Markdown feature and even more tags. HTML tags give you more possibilities and control.<br>
+<br>
+
+For example, you can center any element by surrounding it with this div.<br>
+<pre>
+&lt;div align="center"&gt;
+  &lt;!--- elements to center --&gt;
+&lt;/div&gt;
+</pre>
+
+Maybe you want to change the size of an image<br>
+<pre>
+&lt;img src="image.png" width="200"&gt;
+</pre>
+
+<h3>HTML Symbols and Entities</h3>
+When writing HTML, you might want to display certain symbols, like `<`, `>`, or `&` without having them interpreted as HTML tags. For this, you can use HTML entities, which are special codes that represent characters.
+
+HTML entities always start with an `&` and end with a `;`. Here are some common ones:
+
+* `&lt;` — Represents `<` (less-than symbol)
+* `&gt;` — Represents `>` (greater-than symbol)
+* `&amp;` — Represents `&` (ampersand)
+* `&quot;` — Represents `"` (double quote)
+* `&#39;` — Represents `'` (single quote)
+
+These entities are especially useful in documentation or README files where you might want to show code snippets that include HTML tags without them being interpreted as actual HTML.
+
+For example, if you want to display the text `<div align="center">` without it being treated as an HTML tag, you would write:<br>
+
+`&lt;div align="center"&gt;`
+
+Other useful HTML entities:
+- `&copy;` — © symbol
+- `&reg;` — ® symbol
+- `&euro;` — € symbol
+- `&yen;` — ¥ symbol
+- `&trade;` — ™ symbol
+
+
 </details>
 <!--------------------------------------Profile readme-------------------------------------->
 <details>
