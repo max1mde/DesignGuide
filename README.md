@@ -18,12 +18,35 @@ This project is here to help you get inspired and learn how to make your README 
 - Use this guide for your own projects
 - Contribute to this project if you see something that can be improved or added
 
-# Categories
-<!--------------------------------------Markdown in general-------------------------------------->
-<details>
-<summary>Markdown</summary>
+# Table of Contents
+- [Markdown](#markdown)
+  - [Headings](#headings)
+  - [Text Formatting](#text-formatting)
+  - [Colors](#colors)
+  - [Links](#links)
+  - [Lists](#lists)
+  - [TODO Lists](#todo-lists)
+  - [Alerts (Special blockquotes)](#highlight-note-important-and-warning-blockquotes)
+  - [Emojis](#emojis)
+  - [HTML](#html)
+  - [HTML Symbols and Entities](#html-symbols-and-entities)
+
+- [Repository README](#repository-readme)
+  - [Structure](#structure)
+  - [Badges](#badges)
+
+- [Profile README](#profile-readme)
+
+- [Commits](#commits)
+  - [Commit Messages](#commit-messages)
+  - [Emojis in Commit Messages](#emojis-in-commit-messages)
+
+---
+
+# Markdown
+
 <a href="https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Here is the source</a> of the following information  
-<h3>Headings</h3>
+### Headings
 <pre>  
 # A first-level heading<br>
 ## A second-level heading<br>
@@ -32,7 +55,9 @@ This project is here to help you get inspired and learn how to make your README 
 <h2>A second-level heading</h2>
 <h3>A third-level heading</h3>
 </pre>
-<h3>Text formatting</h3>
+
+### Text formatting
+
 <pre>  
 **This is bold text**
 <b>This is bold text</b>
@@ -99,9 +124,22 @@ _This text is italicized_
 > Negative potential consequences of an action.
 ```
 
-<img src="https://github.com/user-attachments/assets/59ae0c4b-49ce-4bbf-8c4b-3457a96caa7a" width="600">
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
 
-<h3>Emojies</h3>
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+
+### Emojis
 
 | icon | shortcode | icon | shortcode |
 | :-: | - | :-: | - |
@@ -114,8 +152,7 @@ _This text is italicized_
 
 <a href="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md">Here you can find a list of all emojies</a>
 
-
-<h3>HTML</h3>
+### HTML
 You might have already seen that you can use HTML tags, like the &lt;a&gt; or &lt;img&gt; tags in a Markdown file.<br>
 But there are more tags you can use.<br>
 You will probably find a tag for every Markdown feature and even more tags.<br>
@@ -149,7 +186,7 @@ Which would look like this:
   <p>And the hidden content</p>
 </details>
 
-<h3>HTML Symbols and Entities</h3>
+### HTML Symbols and Entities
 When writing HTML, you might want to display certain symbols, like `<`, `>`, or `&` without having them interpreted as HTML tags. For this, you can use HTML entities, which are special codes that represent characters.
 
 HTML entities always start with an `&` and end with a `;`. Here are some common ones:
@@ -173,10 +210,10 @@ Other useful HTML entities:
 - `&yen;` — ¥ symbol
 - `&trade;` — ™ symbol
 
-</details>
-<!--------------------------------------Repo readme-------------------------------------->
-<details>
-<summary>Repository readme</summary>
+---
+
+# Repository readme
+
 <h3>Structure</h3>
 
 <pre>• Badges  (optional)
@@ -188,7 +225,7 @@ Other useful HTML entities:
 • Usage
 • How to Contribute, Licence, Credits etc  (optional)</pre>
 --------------------------------------------
-<h3>Badges</h3>
+### Badges
 Badges display important details about a project, such as version, license, downloads, and ratings. These badges can be either static or dynamic and also include symbols. These small graphical elements are typically found at the top of your readme and are provided by various services like <a href="https://shields.io">shields.io</a>. 
 <br>
 <br>
@@ -197,21 +234,18 @@ Badges display important details about a project, such as version, license, down
 <pre><b>You can also make them clickable by enclosing the &lt;img&gt; element within an &lt;a&gt; element, like this:</b><br>
 &lt;a href="https://github.com/max1mde/DesignGuide/blob/main/LICENSE"><br>  &lt;img alt="GitHub license" src="https://img.shields.io/github/license/max1mde/DesignGuide"&gt;<br>&lt;/a&gt;<br><br><a href="https://github.com/max1mde/DesignGuide/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/max1mde/DesignGuide"></a></pre>
 
-</details>
-<!--------------------------------------Profile readme-------------------------------------->
-<details>
-<summary>Profile readme</summary>
-<p>Nothing here yet. You can change this by opening a pull request and contributing to this project</p>
-</details>
+---
 
-<details>
-<summary>Wiki</summary>
+# Profile readme
+
 <p>Nothing here yet. You can change this by opening a pull request and contributing to this project</p>
-</details>
-<!--------------------------------------Commit messages-------------------------------------->
-<details>
-<summary>Commits</summary>
-<h3>Commit messages</h3>
+
+
+---
+
+# Commits
+
+### Commit messages
 <p>Writing clear commit messages is crucial for a clean Git history</p>
 <ul>
   <li>Keep messages concise.</li>
@@ -220,6 +254,8 @@ Badges display important details about a project, such as version, license, down
   <li>Reference issues if applicable.</li>
   <li>Use emojis wisely.</li>
 </ul>
+
+# Emojis in commit messages
 
 <p>Emojis enhance commit messages, conveying change nature visually. They provide a quick understanding.</p>
 <p>Here's how you can use them for different changes:</p>
@@ -237,4 +273,4 @@ Badges display important details about a project, such as version, license, down
   <li>➕ Adding new code</li>
 </ul>
 <p>For more examples of what emojies you can use in your commit messages, <a href="https://gitmoji.dev">check out this website.</a></p>
-</details>
+
