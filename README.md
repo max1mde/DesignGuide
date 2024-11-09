@@ -26,7 +26,7 @@ This project is here to help you get inspired and learn how to make your README 
   - [Links](#links)
   - [Lists](#lists)
   - [TODO Lists](#todo-lists)
-  - [Alerts (Special blockquotes)](#highlight-note-important-and-warning-blockquotes)
+  - [Alerts (Special blockquotes)](#alerts)
   - [Emojis](#emojis)
   - [HTML](#html)
   - [HTML Symbols and Entities](#html-symbols-and-entities)
@@ -105,7 +105,7 @@ _This text is italicized_
 - [x] A todo which is done
 - [ ] An issue https://github.com/max1mde/HologramAPI/issues/1</pre>
 
-<h3>Highlight "Note", "Important" and "Warning" blockquotes</h3>
+### Alerts
 
 ```
 > [!NOTE]  
