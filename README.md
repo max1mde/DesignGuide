@@ -99,20 +99,7 @@ _This text is italicized_
 > Negative potential consequences of an action.
 ```
 
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
-
-> [!TIP]
-> Optional information to help a user be more successful.
-
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
-
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
-
-> [!CAUTION]
-> Negative potential consequences of an action.
+<img src="https://github.com/user-attachments/assets/59ae0c4b-49ce-4bbf-8c4b-3457a96caa7a" width="600">
 
 <h3>Emojies</h3>
 
