@@ -113,34 +113,13 @@ _This text is italicized_
 | 😉 | `:wink:` | 😊 | `:blush:` |
 
 <a href="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md">Here you can find a list of all emojies</a>
-</details>
-<!--------------------------------------Repo readme-------------------------------------->
-<details>
-<summary>Repository readme</summary>
-<h3>Structure</h3>
 
-<pre>• Badges  (optional)
-• Title
-• Description
-• Banner/Showcase of the project  (optional)
-• Table of Contents (optional but good for big readme's)
-• Installation
-• Usage
-• How to Contribute, Licence, Credits etc  (optional)</pre>
---------------------------------------------
-<h3>Badges</h3>
-Badges display important details about a project, such as version, license, downloads, and ratings. These badges can be either static or dynamic and also include symbols. These small graphical elements are typically found at the top of your readme and are provided by various services like <a href="https://shields.io">shields.io</a>. 
-<br>
-<br>
-<pre><b>You can use the html image tag to display a badge:</b><br><br>&lt;img alt="GitHub license" src="https://img.shields.io/github/license/max1mde/DesignGuide"&gt;<br><br><img alt="GitHub license" src="https://img.shields.io/github/license/max1mde/DesignGuide"></pre>
-
-<pre><b>You can also make them clickable by enclosing the &lt;img&gt; element within an &lt;a&gt; element, like this:</b><br>
-&lt;a href="https://github.com/max1mde/DesignGuide/blob/main/LICENSE"><br>  &lt;img alt="GitHub license" src="https://img.shields.io/github/license/max1mde/DesignGuide"&gt;<br>&lt;/a&gt;<br><br><a href="https://github.com/max1mde/DesignGuide/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/max1mde/DesignGuide"></a></pre>
 
 <h3>HTML</h3>
-You already saw that you can use HTML tags, like the &lt;a&gt; or &lt;img&gt; tag for the badges.<br>
+You might have already seen that you can use HTML tags, like the &lt;a&gt; or &lt;img&gt; tags in a Markdown file.<br>
 But there are more tags you can use.<br>
-You will probably find a tag for every Markdown feature and even more tags. HTML tags give you more possibilities and control.<br>
+You will probably find a tag for every Markdown feature and even more tags.<br>
+HTML tags give you more possibilities and control.<br>
 <br>
 
 For example, you can center any element by surrounding it with this div.<br>
@@ -154,6 +133,21 @@ Maybe you want to change the size of an image<br>
 <pre>
 &lt;img src="image.png" width="200"&gt;
 </pre>
+
+Or create a collapsible section
+
+<pre>
+&lt;details>
+&lt;summary&gt;The title&lt;/summary&gt;
+  &lt;p&gt;And the hidden content&lt;/p&gt;
+&lt;/details&gt;
+</pre>
+
+Which would look like this:
+<details>
+<summary>The title</summary>
+  <p>And the hidden content</p>
+</details>
 
 <h3>HTML Symbols and Entities</h3>
 When writing HTML, you might want to display certain symbols, like `<`, `>`, or `&` without having them interpreted as HTML tags. For this, you can use HTML entities, which are special codes that represent characters.
@@ -179,6 +173,29 @@ Other useful HTML entities:
 - `&yen;` — ¥ symbol
 - `&trade;` — ™ symbol
 
+</details>
+<!--------------------------------------Repo readme-------------------------------------->
+<details>
+<summary>Repository readme</summary>
+<h3>Structure</h3>
+
+<pre>• Badges  (optional)
+• Title
+• Description
+• Banner/Showcase of the project  (optional)
+• Table of Contents (optional but good for big readme's)
+• Installation
+• Usage
+• How to Contribute, Licence, Credits etc  (optional)</pre>
+--------------------------------------------
+<h3>Badges</h3>
+Badges display important details about a project, such as version, license, downloads, and ratings. These badges can be either static or dynamic and also include symbols. These small graphical elements are typically found at the top of your readme and are provided by various services like <a href="https://shields.io">shields.io</a>. 
+<br>
+<br>
+<pre><b>You can use the html image tag to display a badge:</b><br><br>&lt;img alt="GitHub license" src="https://img.shields.io/github/license/max1mde/DesignGuide"&gt;<br><br><img alt="GitHub license" src="https://img.shields.io/github/license/max1mde/DesignGuide"></pre>
+
+<pre><b>You can also make them clickable by enclosing the &lt;img&gt; element within an &lt;a&gt; element, like this:</b><br>
+&lt;a href="https://github.com/max1mde/DesignGuide/blob/main/LICENSE"><br>  &lt;img alt="GitHub license" src="https://img.shields.io/github/license/max1mde/DesignGuide"&gt;<br>&lt;/a&gt;<br><br><a href="https://github.com/max1mde/DesignGuide/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/max1mde/DesignGuide"></a></pre>
 
 </details>
 <!--------------------------------------Profile readme-------------------------------------->
