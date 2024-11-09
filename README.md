@@ -1,12 +1,12 @@
 <div align="center">
   <h1>The Design Guide</h1>
-  <p>A simple design guide for everything related to Git and Github</p>
-  <img src="https://github.com/MaximFiedler/DesignGuide/assets/114857048/1c109e37-3501-4581-8273-2595593b3219">
+  <p>A simple design guide for everything related to Git and Github (especially Markdown)</p>
+  <img src="https://github.com/max1mde/DesignGuide/assets/114857048/1c109e37-3501-4581-8273-2595593b3219">
   <div>
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/MaximFiedler/DesignGuide">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/MaximFiedler/DesignGuide">
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/MaximFiedler/DesignGuide">
-    <img alt="GitHub license" src="https://img.shields.io/github/license/MaximFiedler/DesignGuide">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/max1mde/DesignGuide">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/max1mde/DesignGuide">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/max1mde/DesignGuide">
+    <img alt="GitHub license" src="https://img.shields.io/github/license/max1mde/DesignGuide">
   </div>  
 </div>
 
@@ -55,12 +55,12 @@ _This text is italicized_
 `#0969DA`
 `rgb(9, 105, 218)`
 `hsl(212, 92%, 45%)`<br> 
-<img src="https://github.com/MaximFiedler/DesignGuide/assets/114857048/765e8bd5-efab-4c51-9c0b-18962cd39c49" width="150">
+<img src="https://github.com/max1mde/DesignGuide/assets/114857048/765e8bd5-efab-4c51-9c0b-18962cd39c49" width="150">
 </pre>
 <h3>Links</h3>
 <pre>  
-[This is a link](https://github.com/MaximFiedler/DesignGuide)
-<a href="https://github.com/MaximFiedler/DesignGuide">This is a link</a><br>
+[This is a link](https://github.com/max1mde/DesignGuide)
+<a href="https://github.com/max1mde/DesignGuide">This is a link</a><br>
 [License of this project](LICENSE)
 <a href="LICENSE">License of this project</a><blockquote>Relative link</blockquote></pre>  
 <h3>Lists</h3>
@@ -76,10 +76,10 @@ _This text is italicized_
 <h3>TODO Lists</h3>
 <pre>    
 - [x] A todo which is done
-- [ ] An issue https://github.com/MaximFiedler/HologramAPI/issues/1<br>
+- [ ] An issue https://github.com/max1mde/HologramAPI/issues/1<br>
 
 - [x] A todo which is done
-- [ ] An issue https://github.com/MaximFiedler/HologramAPI/issues/1</pre>
+- [ ] An issue https://github.com/max1mde/HologramAPI/issues/1</pre>
 
 <h3>Highlight "Note", "Important" and "Warning" blockquotes</h3>
 
@@ -146,10 +146,10 @@ _This text is italicized_
 Badges display important details about a project, such as version, license, downloads, and ratings. These badges can be either static or dynamic and also include symbols. These small graphical elements are typically found at the top of your readme and are provided by various services like <a href="https://shields.io">shields.io</a>. 
 <br>
 <br>
-<pre><b>You can use the html image tag to display a badge:</b><br><br>&lt;img alt="GitHub license" src="https://img.shields.io/github/license/MaximFiedler/DesignGuide"&gt;<br><br><img alt="GitHub license" src="https://img.shields.io/github/license/MaximFiedler/DesignGuide"></pre>
+<pre><b>You can use the html image tag to display a badge:</b><br><br>&lt;img alt="GitHub license" src="https://img.shields.io/github/license/max1mde/DesignGuide"&gt;<br><br><img alt="GitHub license" src="https://img.shields.io/github/license/max1mde/DesignGuide"></pre>
 
 <pre><b>You can also make them clickable by enclosing the &lt;img&gt; element within an &lt;a&gt; element, like this:</b><br>
-&lt;a href="https://github.com/MaximFiedler/DesignGuide/blob/main/LICENSE"><br>  &lt;img alt="GitHub license" src="https://img.shields.io/github/license/MaximFiedler/DesignGuide"&gt;<br>&lt;/a&gt;<br><br><a href="https://github.com/MaximFiedler/DesignGuide/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/MaximFiedler/DesignGuide"></a></pre>
+&lt;a href="https://github.com/max1mde/DesignGuide/blob/main/LICENSE"><br>  &lt;img alt="GitHub license" src="https://img.shields.io/github/license/max1mde/DesignGuide"&gt;<br>&lt;/a&gt;<br><br><a href="https://github.com/max1mde/DesignGuide/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/max1mde/DesignGuide"></a></pre>
 
 </details>
 <!--------------------------------------Profile readme-------------------------------------->
