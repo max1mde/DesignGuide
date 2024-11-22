@@ -3,6 +3,7 @@
   <p>A simple design guide for everything related to Git and Github (especially Markdown)</p>
   <img src="https://github.com/max1mde/DesignGuide/assets/114857048/1c109e37-3501-4581-8273-2595593b3219">
   <div>
+    <a href="https://discord.gg/2UTkYj26B4" target="_blank"><img src="https://img.shields.io/badge/Discord_Server-7289DA?style=flat&logo=discord&logoColor=white" alt="Join Discord Server" style="border-radius: 15px; height: 20px;"></a>
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/max1mde/DesignGuide">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/max1mde/DesignGuide">
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/max1mde/DesignGuide">
